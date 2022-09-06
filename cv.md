@@ -22,6 +22,25 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 ---
 
+### Technologies and Skills
+
+| Name        | Icon                                                                                                             |
+| ----------- | ---------------------------------------------------------------------------------------------------------------- |
+| HTML5       | ![Image](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)              |
+| Css3        | ![Image](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)                                |
+| Sass        | ![Image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)                 |
+| TailwindCSS | ![Image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| Bootstrap   | ![Image](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)                      |
+| Git         | ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)                   |
+| GitHub      | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)     |
+| JavaScript  | ![Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)    |
+| ReactJs     | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)    |
+| Figma       | ![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)               |
+| Linux       | ![Image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)               |
+| Ubuntu      | ![Image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)             |
+
+---
+
 ### Example code
 
 ### Write a JavaScript for loop that will iterate from 0 to 15. For each iteration, it will check if he current number is odd or even, and display a message to the screen.
